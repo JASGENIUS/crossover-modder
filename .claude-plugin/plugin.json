@@ -1,0 +1,22 @@
+{
+  "name": "crossover-modder",
+  "version": "0.1.0",
+  "description": "Skills for putting one game inside another by translating it: the other game's world becomes real collision, its objects keep their own physics and damage, and the host engine draws them. A playbook from a working BeamNG.drive x Minecraft crossover.",
+  "author": {
+    "name": "JASGENIUS",
+    "url": "https://github.com/JASGENIUS"
+  },
+  "homepage": "https://github.com/JASGENIUS/crossover-modder",
+  "repository": "https://github.com/JASGENIUS/crossover-modder",
+  "license": "MIT",
+  "keywords": [
+    "game-modding",
+    "crossover",
+    "mashup",
+    "minecraft",
+    "beamng",
+    "fabric",
+    "lua",
+    "agent-skills"
+  ]
+}

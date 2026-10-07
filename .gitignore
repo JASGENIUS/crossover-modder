@@ -1,0 +1,19 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Never commit game files: exports, textures, maps, captures
+*.glb
+*.dds
+*.zip
+*.mp4
+
+# Editor tool caches
+.impeccable/

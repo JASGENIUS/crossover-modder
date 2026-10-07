@@ -1,0 +1,16 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "crossover-modder",
+  "description": "Skills for game crossovers that translate one game into the other instead of overlaying it.",
+  "owner": {
+    "name": "JASGENIUS",
+    "url": "https://github.com/JASGENIUS"
+  },
+  "plugins": [
+    {
+      "name": "crossover-modder",
+      "source": "./",
+      "description": "Skills for putting one game inside another by translating it: the other game's world becomes real collision, its objects keep their own physics and damage, and the host engine draws them."
+    }
+  ]
+}
